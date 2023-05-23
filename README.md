@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guheon2 
-- 🌱 I’m currently learning HTML, CSS. and many things basically.
+- 🌱 I’m currently learning HTML, CSS. and many basic things 
 
 <!---
 Guheon2/Guheon2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
